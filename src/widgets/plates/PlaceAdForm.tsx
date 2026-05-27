@@ -171,7 +171,7 @@ export default function PlaceAdForm() {
           password: trimmedPassword,
         });
       }
-      setToast({ type: "success", msg: "Объявление успешно отправлено" });
+      setToast({ type: "success", msg: "Объявление отправлено на модерацию" });
       setPhoneError("");
       resetForm();
     } catch (error: unknown) {
