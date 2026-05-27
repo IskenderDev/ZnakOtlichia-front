@@ -143,7 +143,7 @@ export default function NumberDetailsSection() {
             </Link>
 
             <h1 className="flex flex-wrap items-baseline gap-x-1 gap-y-1 text-[22px] font-bold leading-[1.2] tracking-[0.01em] sm:text-[26px] lg:text-[36px]">
-              <span>Продам номер</span>
+              <span>Продам красивый автономер</span>
               <span className="ml-1 font-auto-number uppercase">
                 {numberLabel}
               </span>
