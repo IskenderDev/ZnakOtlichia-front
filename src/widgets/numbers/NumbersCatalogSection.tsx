@@ -31,7 +31,7 @@ export default function NumbersCatalogSection() {
 
   return (
     <>
-      <Seo title="Купить красивые автономера — Знак Отличия" description="Каталог красивых автомобильных номеров с актуальными предложениями." />
+      <Seo title="Купить красивые автономера | Красивые гос номера, оценка автономера, выкуп автономера" description="Каталог красивых автомобильных номеров с актуальными предложениями — Знак Отличия." />
       <section className="text-white min-h-screen pb-12">
         <div className="mx-auto px-4 sm:px-6">
           <PlateMarketFilters
